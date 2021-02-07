@@ -56,7 +56,7 @@ Contributions are what make the open source community such an amazing place to b
 
 Email - info@pramuditha-malhara.com
 
-Project Link - [https://github.com/DmetroSK/Calculator](https://github.com/DmetroSK/Calculator)
+Project Link - [https://github.com/DmetroSK/Calulator-Arithmetics](https://github.com/DmetroSK/Calulator-Arithmetics)
 
 <br>
 
